@@ -2,7 +2,7 @@ package com.inkbox.boot.dubboapi;
 
 import java.io.Serializable;
 
-public class Position implements Serializable {
+public class Position  {
     private int x;
     private int y;
 
